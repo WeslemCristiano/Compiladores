@@ -18,7 +18,7 @@ https://github.com/wellingtondellamura/compilers101/tree/main/first-steps/002-ve
 
 Entregar o código no Github
 
-Requisitos não funcionais
+Requisitos não funcionais:
 Código orientado a objetos
 Tabela de símbolos codificada
 Mensagens de erro amigáveis
