@@ -34,6 +34,3 @@ O projeto atende aos seguintes requisitos não funcionais:
 - **Tabela de Símbolos Codificada:** Uma tabela de símbolos foi implementada para gerenciar variáveis e seus valores.
 - **Mensagens de Erro Amigáveis:** O interpretador exibe mensagens de erro compreensíveis para facilitar a identificação e correção de problemas.
 
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
